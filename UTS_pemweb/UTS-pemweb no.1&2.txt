@@ -4,7 +4,7 @@ Kelas: IF22G
 NIM: 22416255201039
 
 jawaban no 1:
-1.)Framework adalah suatu struktur dan fungsi yang telah dirancang oleh para pengembang framework tersebut dengan tujuan untuk mempercepat dan mempermudah para pengembang lain di seluruh dunia dalam membuat dan mengembangkan suatu aplikasi. Sederhananya framework membuat para pengembang tidak perlu menulis kode program dari awal melainkan menggunakan apa yang sudah tersedia didalam framework tersebut. Framework ditulis menggunakan bahasa yang berbeda-beda tergantung dari tujuan penggunaannya. Saat ini tersedia banyak framework yang dapat digunakan pengembang aplikasi, seperti laravel dan codeigniter untuk bahasa pemrograman php, React dan Angular untuk bahasa pemrograman javascript, Bootstrap dan Tailwind untuk CSS.
+1.)Framework adalah suatu struktur dan fungsi yang telah dirancang oleh para pengembang framework tersebut dengan tujuan untuk mempercepat dan mempermudah para pengembang lain di seluruh dunia dalam membuat dan mengembangkan suatu aplikasi. Dalam pengembangan aplikasi, framework menyediakan pola umum, fungsi, dan alat yang dapat membantu pengembang dalam membangun aplikasi tanpa harus memulai dari nol. Framework ditulis menggunakan bahasa yang berbeda-beda tergantung dari tujuan penggunaannya. Saat ini tersedia banyak framework yang dapat digunakan pengembang aplikasi, seperti laravel dan codeigniter untuk bahasa pemrograman php, React dan Angular untuk bahasa pemrograman javascript, Bootstrap dan Tailwind untuk CSS.
 
 jawaban no 2:
 2.) 1.Instansi Perusahaan
